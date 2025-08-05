@@ -1,0 +1,52 @@
+timestamp,device_type,log_type,event_description
+2022-01-01 08:00:00,Workstation,Process,User 'john.doe' launched executable 'malicious.exe'
+2022-01-01 08:05:23,Server,Logon,User 'admin' logged in from IP address '192.168.1.10'
+2022-01-01 08:10:45,Workstation,File,File 'important.docx' modified by user 'alice.smith'
+2022-01-01 08:15:30,Server,Process,Executable 'ransomware.exe' detected attempting to encrypt files
+2022-01-01 08:20:12,IoT Device,Logon,Unauthorized access attempt detected from IP address '10.0.0.5'
+2022-01-01 08:25:40,Workstation,File,File 'confidential.pdf' accessed by user 'bob.jones'
+2022-01-01 08:30:15,Server,Process,Unusual network activity detected from process 'svchost.exe'
+2022-01-01 08:35:22,Workstation,Logon,Failed login attempt for user 'admin' from IP address '203.0.113.1'
+2022-01-01 08:40:18,IoT Device,File,File 'sensitive_data.csv' transferred to external IP address '198.51.100.2'
+2022-01-01 08:45:55,Server,Process,Service 'SQLServer' stopped unexpectedly
+2022-01-01 08:50:30,Workstation,Logon,User 'jane.doe' logged in from IP address '192.168.1.20'
+2022-01-01 08:55:10,IoT Device,File,Executable 'update.exe' downloaded from unknown source
+2022-01-01 09:00:45,Server,Logon,User 'backup_user' logged in from IP address '192.168.1.30'
+2022-01-01 09:05:20,Workstation,File,File 'invoice.pdf' accessed by user 'finance_user'
+2022-01-01 09:10:38,Server,Process,High CPU usage detected in process 'nginx.exe'
+2022-01-01 09:15:42,Workstation,Logon,User 'guest' logged in from IP address '10.0.0.10'
+2022-01-01 09:20:25,IoT Device,File,File 'credentials.txt' deleted by unknown process
+2022-01-01 09:25:19,Server,Logon,Failed login attempt for user 'test' from IP address '192.0.2.1'
+2022-01-01 09:30:33,Workstation,Process,Executable 'malware.exe' detected in memory
+2022-01-01 09:35:50,IoT Device,Logon,Unauthorized access attempt detected from IP address '192.168.1.40'
+2022-01-01 09:40:15,Server,File,File 'backup.zip' transferred to unknown destination
+2022-01-01 09:45:28,Workstation,Logon,User 'user1' logged in from IP address '203.0.113.2'
+2022-01-01 09:50:37,IoT Device,Process,Process 'cmd.exe' launched by user 'admin'
+2022-01-01 09:55:44,Server,File,File 'confidential.docx' accessed by user 'backup_user'
+2022-01-01 10:00:12,Workstation,Logon,Failed login attempt for user 'admin' from IP address '192.168.1.50'
+2022-01-01 10:05:30,IoT Device,Process,Unusual network activity detected from process 'telnet.exe'
+2022-01-01 10:10:22,Server,File,File 'data.csv' accessed by user 'user2'
+2022-01-01 10:15:18,Workstation,Logon,User 'john.smith' logged in from IP address '10.0.0.20'
+2022-01-01 10:20:45,IoT Device,Process,Executable 'crypto_miner.exe' detected in process list
+2022-01-01 10:25:33,Server,File,File 'database_backup.bak' transferred to external IP address '198.51.100.3'
+2022-01-01 10:30:29,Workstation,Logon,Failed login attempt for user 'backup_user' from IP address '192.0.2.2'
+2022-01-01 10:35:15,IoT Device,Process,Service 'ssh_server' restarted unexpectedly
+2022-01-01 10:40:20,Server,File,File 'private_key.pem' accessed by user 'sysadmin'
+2022-01-01 10:45:28,Workstation,Logon,User 'guest' logged in from IP address '192.168.1.60'
+2022-01-01 10:50:33,IoT Device,Process,Executable 'botnet.exe' detected in memory
+2022-01-01 10:55:40,Server,File,File 'logs.txt' deleted by unknown process
+2022-01-01 11:00:22,Workstation,Logon,Failed login attempt for user 'admin' from IP address '203.0.113.3'
+2022-01-01 11:05:15,IoT Device,Process,High memory usage detected in process 'httpd.exe'
+2022-01-01 11:10:28,Server,File,File 'user_data.csv' transferred to unknown destination
+2022-01-01 11:15:33,Workstation,Logon,User 'user1' logged in from IP address '10.0.0.30'
+2022-01-01 11:20:45,IoT Device,Process,Executable 'backdoor.exe' detected in process list
+2022-01-01 11:25:28,Server,File,File 'important_doc.docx' accessed by user 'backup_user'
+2022-01-01 11:30:37,Workstation,Logon,Failed login attempt for user 'guest' from IP address '192.168.1.70'
+2022-01-01 11:35:44,IoT Device,Process,Executable 'spyware.exe' detected attempting to connect to external IP
+2022-01-01 11:40:22,Server,File,File 'credentials.txt' modified by user 'sysadmin'
+2022-01-01 11:50:33,IoT Device,Process,Service 'camera_stream' stopped unexpectedly
+2022-01-01 11:55:40,Server,File,File 'financial_report.xlsx' accessed by user 'finance_user'
+2022-01-01 12:00:22,Workstation,Logon,Failed login attempt for user 'admin' from IP address '203.0.113.4'
+2022-01-01 12:05:15,IoT Device,Process,Unusual activity detected in process 'kernel_module'
+2022-01-01 12:10:28,Server,File,File 'database_dump.sql' transferred to unknown destination
+

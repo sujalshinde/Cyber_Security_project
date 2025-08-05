@@ -1,0 +1,24 @@
+# config.yaml
+
+data:
+  path: "data/raw/"
+  processed_path: "data/processed/"
+  preprocessing:
+    fillna: "mean"
+    scaling: "StandardScaler"
+  categorical_features: ["feature1", "feature2"]  # Replace with actual categorical feature names
+
+model:
+  type: "RandomForest"
+  parameters:
+    n_estimators: 100
+    max_depth: 10
+    random_state: 42
+  save_path: "../models/saved_model.pkl"
+
+evaluation:
+  results_path: "evaluation/results/"
+
+server:
+  host: "0.0.0.0"
+  port: 5000

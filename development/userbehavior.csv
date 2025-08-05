@@ -1,0 +1,52 @@
+timestamp,user_id,activity_type,description
+2022-01-01 08:00:00,user1,Login,Successful login from IP address 192.168.1.10
+2022-01-01 08:05:23,user2,File Access,Accessed file 'confidential.docx' in folder 'Finance'
+2022-01-01 08:10:45,user3,Login,Failed login attempt from IP address 10.0.0.5
+2022-01-01 08:15:30,user4,Email Sent,Sent email to external address with subject 'Confidential Report'
+2022-01-01 08:20:12,user5,File Access,Opened file 'salary.xlsx' in folder 'HR'
+2022-01-01 08:25:40,user6,Login,Successful login from IP address 192.168.1.20
+2022-01-01 08:30:15,user7,File Access,Downloaded file 'presentation.pptx' from shared drive
+2022-01-01 08:35:22,user8,Email Received,Received email with attachment 'invoice.pdf'
+2022-01-01 08:40:18,user9,Login,Successful login from IP address 10.0.0.10
+2022-01-01 08:45:55,user10,File Modification,Modified file 'budget.xlsx' in folder 'Finance'
+2022-01-01 08:50:30,user11,Email Sent,Sent email to external address with subject 'Meeting Agenda'
+2022-01-01 08:55:10,user12,File Access,Opened file 'project_plan.docx' in folder 'Projects'
+2022-01-01 09:00:45,user13,Login,Failed login attempt from IP address 192.168.1.30
+2022-01-01 09:05:20,user14,File Access,Accessed file 'confidential.pdf' in folder 'Finance'
+2022-01-01 09:10:38,user15,Email Received,Received suspicious email with subject 'Urgent Action Required'
+2022-01-01 09:15:42,user16,Login,Successful login from IP address 10.0.0.20
+2022-01-01 09:20:25,user17,File Access,Downloaded file 'contract.pdf' from shared drive
+2022-01-01 09:25:19,user18,Email Received,Received email with attachment 'resume.docx'
+2022-01-01 09:30:33,user19,Login,Failed login attempt from IP address 192.168.1.40
+2022-01-01 09:35:50,user20,File Modification,Modified file 'proposal.pptx' in folder 'Marketing'
+2022-01-01 09:40:15,user21,Email Sent,Sent email to external address with subject 'New Product Launch'
+2022-01-01 09:45:28,user22,File Access,Opened file 'customer_list.xlsx' in folder 'Sales'
+2022-01-01 09:50:37,user23,Email Received,Received phishing email with subject 'Important Account Update'
+2022-01-01 09:55:44,user24,Login,Successful login from IP address 192.168.1.50
+2022-01-01 10:00:12,user25,File Access,Accessed file 'confidential.docx' in folder 'Finance'
+2022-01-01 10:05:30,user26,Email Sent,Sent email to external address with subject 'Project Status Update'
+2022-01-01 10:10:22,user27,File Access,Opened file 'report.pdf' in folder 'Operations'
+2022-01-01 10:15:18,user28,Email Received,Received email with attachment 'presentation.pptx'
+2022-01-01 10:20:45,user29,Login,Failed login attempt from IP address 192.168.1.60
+2022-01-01 10:25:33,user30,File Access,Downloaded file 'contract.pdf' from shared drive
+2022-01-01 10:30:29,user31,Email Received,Received email with attachment 'invoice.pdf'
+2022-01-01 10:35:15,user32,Login,Successful login from IP address 10.0.0.30
+2022-01-01 10:40:20,user33,File Access,Opened file 'proposal.docx' in folder 'Marketing'
+2022-01-01 10:45:28,user34,Email Sent,Sent email to external address with subject 'Customer Satisfaction Survey'
+2022-01-01 10:50:33,user35,File Modification,Modified file 'project_plan.xlsx' in folder 'Projects'
+2022-01-01 10:55:40,user36,Login,Failed login attempt from IP address 203.0.113.1
+2022-01-01 11:00:22,user37,File Access,Accessed file 'confidential.docx' in folder 'Finance'
+2022-01-01 11:05:15,user38,Email Sent,Sent email to external address with subject 'Marketing Campaign Update'
+2022-01-01 11:10:28,user39,File Access,Opened file 'budget.xlsx' in folder 'Finance'
+2022-01-01 11:20:45,user41,Login,Failed login attempt from IP address 192.168.1.70
+2022-01-01 11:25:28,user42,File Access,Downloaded file 'contract.pdf' from shared drive
+2022-01-01 11:30:37,user43,Email Received,Received email with attachment 'resume.docx'
+2022-01-01 11:35:44,user44,Login,Successful login from IP address 192.168.1.80
+2022-01-01 11:40:22,user45,File Access,Opened file 'customer_list.xlsx' in folder 'Sales'
+2022-01-01 11:45:15,user46,Email Received,Received phishing email with subject 'Important Account Update'
+2022-01-01 11:50:33,user47,Login,Failed login attempt from IP address 192.168.1.90
+2022-01-01 11:55:40,user48,File Access,Accessed file 'confidential.docx' in folder 'Finance'
+2022-01-01 12:00:22,user49,Email Sent,Sent email to external address with subject 'Project Status Update'
+2022-01-01 12:05:15,user50,File Access,Opened file 'report.pdf' in folder 'Operations'
+
+

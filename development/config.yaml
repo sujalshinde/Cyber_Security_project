@@ -1,0 +1,31 @@
+# config.yaml
+
+database:
+  host: "localhost"
+  port: 5432
+  user: "admin"
+  password: "admin"
+  dbname: "threat_intelligence"
+
+model:
+  type: "RandomForest"
+  parameters:
+    n_estimators: 100
+    max_depth: 10
+    random_state: 42
+
+data:
+  path: "data/raw/"
+  preprocessing:
+    fillna: "ffill"
+    scaling: "StandardScaler"
+  split:
+    test_size: 0.2
+    random_state: 42
+
+
+
+server:
+  host: "0.0.0.0"
+  port: 5000
+
